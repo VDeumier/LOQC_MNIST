@@ -1,2 +1,5 @@
 # Hide csv files
 *.csv
+
+# Hide .venv folder
+.venv/
