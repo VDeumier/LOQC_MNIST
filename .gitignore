@@ -3,3 +3,6 @@
 
 # Hide .venv folder
 .venv/
+
+# Hide .ipynb_checkpoints folder
+.ipynb_checkpoints/
