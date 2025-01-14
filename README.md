@@ -18,4 +18,4 @@ The classical algorithm I have chosen to improve with quantum computing is descr
 The hybrid (classical and quantum) model is explained in hybrid_conv_model.ipynb.
 
 In the modelparams folder are stored the parameters of the trained (1 epoch) model as well as relevant values.
-In the current state, the model doesn't train well at all.
+In the current state, the model doesn't train well at all, but I hope to make it work by implementing SU(N) gates as well as upgrade the gradient calculations by using explicit formulas to make things faster. 
