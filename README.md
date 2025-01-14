@@ -19,3 +19,4 @@ The hybrid (classical and quantum) model is explained in hybrid_conv_model.ipynb
 
 In the modelparams folder are stored the parameters of the trained (1 epoch) model as well as relevant values.
 In the current state, the model doesn't train well at all, but I hope to make it work by implementing SU(N) gates as well as upgrade the gradient calculations by using explicit formulas to make things faster. 
+Another idea could be to increase the numbers of parameters: right now, the hybrid model has only 125 parameters vs 37058 for the classical model.
