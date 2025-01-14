@@ -16,3 +16,6 @@ It is easier to create a venv with the libraries from requirements.txt as I had 
 
 The classical algorithm I have chosen to improve with quantum computing is described in classic_conv_model.ipynb.\
 The hybrid (classical and quantum) model is explained in hybrid_conv_model.ipynb.
+
+In the modelparams folder are stored the parameters of the trained (1 epoch) model as well as relevant values.
+In the current state, the model doesn't train well at all.
